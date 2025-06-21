@@ -5,3 +5,10 @@
 .inter-font {
     font-family: "Inter", sans-serif;
 }
+.seat{
+    color: #03071280;
+    background-color: #F7F8F8;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 12px;
+}
